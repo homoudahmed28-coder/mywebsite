@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+height: 100%;
+margin: 0%;
+padding: 0%;
+}
+body{
+        background-image: url(sr5zdb598cdcafaws3.gif) ;
+        background-repeat:no-repeat ;
+        background-position:center center ;
+        background-attachment:fixed ;
+        background-size: cover;
+        padding-bottom:0 ;
+        overflow: hidden;
+}
+.imgzebra{
+        display:block; 
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left:auto;
+        margin-right:auto;
+        height: 5cm;
+        width: auto;
+        font-size: 1em;
+}
+.zebra{
+        text-align: center;
+        font-size: 1.5em;
+        font-family: "funny";
+        color: rgb(43, 43, 43);
+        margin-left: 0;
+        margin-right:0 ;
+        margin-bottom: 0;
+}
+.tzebra{
+        font-size: 1.5em;
+        font-family: "funny";
+        color: rgb(43, 43, 43);
+        margin-left: 5%;
+        margin-right:0 ;
+        margin-top:0;
+        margin-bottom: 0;
+}
+ .meteor2{
+                display:block; 
+  position: absolute;
+  margin-top: 1%;
+  left: 2%;
+        height: 5cm;
+        width: auto;
+        font-size: 1.5em;
+ }  a{
+        color: black;
+        text-decoration: none;
+ } 
+
+
+.hunter{
+height: 9em;
+width: auto;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        display: block; 
+}
+.text{
+       margin-top: 20%;
+       padding-left: 15%;
+       padding: right 15px; ;
+        font-size: large;
+          border: 1em solid transparent;
+          background-color: aqua;
+      text-shadow: 0px 0px 17px rgba(0,0,0,0.6);
+      text-align: center;
+  padding: 15px;
+  border-image: url(388-3880069_pixel-spaceship-png.png) ;
+  box-shadow: -5px 3px 19px 4px rgba(0,0,0,0.75);
+-webkit-box-shadow: -5px 3px 19px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px 3px 19px 4px rgba(0,0,0,0.75);
+        
+}
+
+button{
+        text-align: center;
+        width: 15%;
+        height: auto;
+        background-color: aqua;
+        color: black;
+        margin-left: 42%;
+       margin-right: auto;
+}
+@font-face{
+        font-family: "funny";
+        src:url(Minecraft.ttf);
+}
